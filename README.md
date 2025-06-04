@@ -49,7 +49,7 @@ Then open: [http://localhost:8080](http://localhost:8080)
 ### Option B: Using Node.js (install once)
 ```bash
 npm install -g serve
-serve .
+npx serve -s .
 ```
 Then open: [http://localhost:3000](http://localhost:3000)
 
